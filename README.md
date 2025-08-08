@@ -23,7 +23,7 @@ This interactive dashboard enables business users to filter data and visualize p
 | File | Description |
 |------|-------------|
 | `Gourmet Goods Inc Data Set.xlsx` | Raw dataset used to build all pivot tables and charts. |
-| (`Gourmet Goods Inc – Sales & Profit Dashboard.png`) 'https://github.com/Isair01/gourmet-goods-sales-dashboard/blob/main/Gourmet%20Goods%20Inc%20%E2%80%93%20Sales%20%26%20Profit%20Dashboard.png' | Screenshot preview of the final Excel dashboard. |
+| (`Gourmet Goods Inc – Sales & Profit Dashboard.png` (https://github.com/Isair01/gourmet-goods-sales-dashboard/blob/main/Gourmet%20Goods%20Inc%20%E2%80%93%20Sales%20%26%20Profit%20Dashboard.png) | Screenshot preview of the final Excel dashboard. |
 | `Gourmet Goods Inc – Sales Dashboard (Excel)` | Contains all visuals, pivot tables, and slicers compiled into a single dashboard worksheet. |
 
 ---
