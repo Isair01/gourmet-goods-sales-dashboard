@@ -4,9 +4,9 @@ This is a business intelligence dashboard project created in Microsoft Excel for
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
-The goal of this dashboard was to help stakeholders understand performance metrics and trends across different dimensions including:
+The goal of this dashboard was to help stakeholders understand performance metrics and trends across different dimensions as below:
 
 - Geographical Area  
 - Client Type  
@@ -16,39 +16,37 @@ The goal of this dashboard was to help stakeholders understand performance metri
 
 This interactive dashboard enables business users to filter data and visualize performance indicators efficiently for strategic decision-making.
 
----
-
-## 📂 Project Structure
+## Project Structure
 
 | File | Description |
 |------|-------------|
 | `Gourmet Goods Inc Data Set.xlsx` | Raw dataset used to build all pivot tables and charts. |
-| (`Gourmet Goods Inc – Sales & Profit Dashboard.png` (https://github.com/Isair01/gourmet-goods-sales-dashboard/blob/main/Gourmet%20Goods%20Inc%20%E2%80%93%20Sales%20%26%20Profit%20Dashboard.png) | Screenshot preview of the final Excel dashboard. |
+| (`Gourmet Goods Inc – Sales & Profit Dashboard.png`  | Screenshot preview of the final Excel dashboard. |
 | `Gourmet Goods Inc – Sales Dashboard (Excel)` | Contains all visuals, pivot tables, and slicers compiled into a single dashboard worksheet. |
 
 ---
 
 ## 📈 Key Visuals & Analysis
 
-### ✅ 1. **Top Cities by Average Sales**
+### 1. **Top Cities by Average Sales**
 - Highlights cities with the highest average order value.
 - Helps identify premium markets for focused campaigns.
 
-### ✅ 2. **City by Total Sales**
+### 2. **City by Total Sales**
 - Visualizes top revenue-generating cities.
 - Informs city-specific investment decisions.
 
-### ✅ 3. **Geographical Area by Total Sales**
+### 3. **Geographical Area by Total Sales**
 - Compares sales volume across Central, East, West, North, and South regions.
 - Useful for assessing regional performance.
 
-### ✅ 4. **Quarterly Profit Trend (2014–2017)**
+### 4. **Quarterly Profit Trend (2014–2017)**
 - Shows profit performance over time.
 - Detects seasonal trends and profit volatility.
 
 ---
 
-## 🧩 Interactivity Features
+## Interactivity Features
 
 - **Slicers** included for:
   - Geographical Area
@@ -59,7 +57,7 @@ These allow users to segment and explore data dynamically within the dashboard.
 
 ---
 
-## 🔧 Tools & Techniques Used
+## Tools & Techniques Used
 
 - **Microsoft Excel** (Pivot Tables, Slicers, Charts)
 - **Data Cleaning & Formatting**
@@ -77,7 +75,7 @@ These allow users to segment and explore data dynamically within the dashboard.
 
 ---
 
-## 🚀 How to Use the Dashboard
+## How to Use the Dashboard
 
 1. Open the `.xlsx` file in Microsoft Excel (2016 or later recommended).
 2. Use the **slicers on the right** to filter the dashboard by region, client type, or shipping type.
@@ -85,7 +83,7 @@ These allow users to segment and explore data dynamically within the dashboard.
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 This project sharpened practical BI skills including:
 - Dashboard design best practices
@@ -95,7 +93,7 @@ This project sharpened practical BI skills including:
 
 ---
 
-## 📬 Contact
+## Contact
 
 For feedback, collaboration, or freelance opportunities:
 
