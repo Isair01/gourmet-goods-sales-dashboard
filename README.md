@@ -66,7 +66,7 @@ These allow users to segment and explore data dynamically within the dashboard.
 
 ---
 
-## 📌 Insights Extracted
+## Insights Extracted
 
 - **Central region** led in total sales, indicating it as a top-performing area.
 - **Profit volatility** observed across quarters, with notable dips in Q4 2017.
