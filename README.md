@@ -1,103 +1,76 @@
-# 📊 Gourmet Goods Inc – Sales & Profit Dashboard
+# Gourmet Goods Inc – Sales & Profit Dashboard
 
-This is a business intelligence dashboard project created in Microsoft Excel for **Gourmet Goods Inc**, using pivot tables, slicers, and charts to analyze sales and profit data from 2014–2017. It provides key insights into sales performance by geography, client type, and time period.
+<!-- Optional GIF Preview -->
+![Dashboard Demo](dashboard_demo.gif)
 
----
-
-## Project Overview
-
-The goal of this dashboard was to help stakeholders understand performance metrics and trends across different dimensions as below:
-
-- Geographical Area  
-- Client Type  
-- Shipping Type  
-- City Performance  
-- Quarterly Profit Trends
-
-This interactive dashboard enables business users to filter data and visualize performance indicators efficiently for strategic decision-making.
-
-## Project Structure
-
-| File | Description |
-|------|-------------|
-| `Gourmet Goods Inc Data Set.xlsx` | Raw dataset used to build all pivot tables and charts. |
-| (`Gourmet Goods Inc – Sales & Profit Dashboard.png`  | Screenshot preview of the final Excel dashboard. |
-| `Gourmet Goods Inc – Sales Dashboard (Excel)` | Contains all visuals, pivot tables, and slicers compiled into a single dashboard worksheet. |
+## 📊 Overview
+An interactive Excel dashboard analyzing sales & profits for Gourmet Goods Inc (2014–2017), covering:
+- Geography (region, country, city)
+- Client type & shipping methods
+- Sales & profit trends
+- Key performance by city and quarter
 
 ---
 
-## 📈 Key Visuals & Analysis
+## 🖼 Dashboard Preview
+[![Dashboard Thumbnail](images/dashboard_thumbnail.png)](Gourmet%20Goods%20Inc%20–%20Sales%20%26%20Profit%20Dashboard.png)
 
-### 1. **Top Cities by Average Sales**
-- Highlights cities with the highest average order value.
-- Helps identify premium markets for focused campaigns.
-
-### 2. **City by Total Sales**
-- Visualizes top revenue-generating cities.
-- Informs city-specific investment decisions.
-
-### 3. **Geographical Area by Total Sales**
-- Compares sales volume across Central, East, West, North, and South regions.
-- Useful for assessing regional performance.
-
-### 4. **Quarterly Profit Trend (2014–2017)**
-- Shows profit performance over time.
-- Detects seasonal trends and profit volatility.
+> **Click the image above** to view the full-resolution dashboard.
 
 ---
 
-## Interactivity Features
+## 🔑 Key Insights
 
-- **Slicers** included for:
-  - Geographical Area
-  - Client Type (Retail, Direct, Online, Wholesale)
-  - Shipping Type (Air, Rail, Road, Sea)
+### 1. Top Cities by Average Sales
+![Top Cities Chart](images/top_cities_chart.png)  
+**Insight:** City X leads in average sales, followed by City Y.
 
-These allow users to segment and explore data dynamically within the dashboard.
+### 2. City by Total Sales
+![City Sales Chart](images/city_sales_chart.png)  
+**Insight:** City Z consistently outperforms others in total revenue.
 
----
-
-## Tools & Techniques Used
-
-- **Microsoft Excel** (Pivot Tables, Slicers, Charts)
-- **Data Cleaning & Formatting**
-- **Data Visualization & Dashboard Design**
-- **Exploratory Data Analysis (EDA)**
+### 3. Quarterly Profit Trends
+![Quarterly Profit Chart](images/quarterly_profit_chart.png)  
+**Insight:** Profits dip in Q2 but recover strongly in Q4.
 
 ---
 
-## Insights Extracted
-
-- **Central region** led in total sales, indicating it as a top-performing area.
-- **Profit volatility** observed across quarters, with notable dips in Q4 2017.
-- **New York City and Los Angeles** were consistently high in total sales.
-- Online client type showed consistent engagement, worth deeper exploration.
-
----
-
-## How to Use the Dashboard
-
-1. Open the `.xlsx` file in Microsoft Excel (2016 or later recommended).
-2. Use the **slicers on the right** to filter the dashboard by region, client type, or shipping type.
-3. Interact with the charts to explore deeper insights.
+## ▶️ View Interactive Dashboard
+Experience the live dashboard here:  
+[🔗 **Open in Google Drive**](https://drive.google.com/file/d/YOURFILEID/view?usp=sharing)  
+_or_  
+[🔗 **Open in OneDrive**](https://1drv.ms/x/s!YOURFILEID)
 
 ---
 
-## Learnings
-
-This project sharpened practical BI skills including:
-- Dashboard design best practices
-- Pivot table configuration
-- Filtering with slicers
-- Trend analysis using time-series data
+## 🛠 Methodology
+1. Data cleaning & transformation in Excel tables.
+2. Pivot tables created for:
+   - Region & Country
+   - City & Client Type
+   - Shipping methods
+3. Slicers for dynamic filtering.
+4. Charts linked to pivots for interactive visualization.
 
 ---
 
-## Contact
+## 💻 Tech Stack
+- Microsoft Excel 2016+ (Pivot Tables, Slicers, Charts)
+- Image editing for thumbnails (Canva / Snagit / Paint.NET)
 
-For feedback, collaboration, or freelance opportunities:
+---
 
-**Eliza Isair**  
-📧 isairliz01@gmail.com  
-📞 +254 738 711 949  
-🌐 [GitHub Profile](https://github.com/Isair01)
+## 📌 Future Work
+- Expand analysis to 2018–2021 data
+- Migrate dashboard to Power BI for richer interactivity
+- Add forecasting models for sales trends
+
+---
+
+## 📄 License
+Licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📬 Contact
+Created by **Eliza Isair** – [GitHub](https://github.com/Isair01)  
